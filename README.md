@@ -11,8 +11,8 @@
 > Após salvar, basta abrir o arquivo "app.py" no seu terminal.
 
 ### Como Instalar
-1º Instale o [Python](https://www.python.org/downloads/)
-2º Navegue no terminal até o diretório onde estão os arquivos "app.py", "requeriments.txt" e "apostas.xlsx"
+1º Instale o [Python](https://www.python.org/downloads/):
+2º Navegue no terminal até o diretório onde estão os arquivos "app.py", "requeriments.txt" e "apostas.xlsx":
 
 Instale os requerimentos necessários:
 
