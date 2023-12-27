@@ -2,8 +2,8 @@
 
 ## Importante!
 > Esse script é para uso pessoal; feito para quem participa de vários bolões ou até mesmo fez vários jogos avulsos e não quer perder tempo conferindo um por um, essa é a sua solução!
-> Fiz esse script para mostrar como pode ser implementada a [API resultados da loteria](https://github.com/maybetmarangon/api-resultados-loterias) que criei.
-> Os arquivos "app.py", "requeriments.txt" e "apostas.xlsx" no mesmo diretório (pasta)
+> Fiz este script para mostrar como pode ser implementada a [API resultados da loteria](https://github.com/maybetmarangon/api-resultados-loterias) que criei.
+> Coloque os arquivos "app.py", "requeriments.txt" e "apostas.xlsx" no mesmo diretório (pasta)
 
 ## Como usar
 > Abra o arquivo "apostas.xlsx" no seu editor de preferência e coloque os números da sua aposta, um em cada coluna.
